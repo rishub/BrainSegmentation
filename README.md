@@ -29,6 +29,7 @@ Note that you may need to add permissions to run.sh
 
 This command will open a web browser that shows the original image and our output image side by side.
 
+If no browser is available, navigate to the c_test/images folder, and open the images in whatever image viewer you desire.
 
 # Using Example Test Folder
 
