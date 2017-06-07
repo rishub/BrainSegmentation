@@ -9,7 +9,7 @@ The left side of this picture is an example of what we want to output, given the
 
 # Instructions for running our project
 
-1) Download and unzip project folder from <a href = "#">this link</a>.
+1) Download and unzip project folder from <a href = "https://ucla.box.com/s/nwk3io3hbf8yi8n20wult32qqlcnjusv">this link</a>.
 
 2) ONLY NECESSARY IF TEST FOLDER HAS DICOM IMAGES: If your test folder contains dicom images, run this command to create a new folder with png versions of those images (Copy the test folder into this directory first)
 
@@ -28,3 +28,13 @@ If you performed step one, output_png_dir = input_png_dir. Otherwise, input_png_
 Note that you may need to add permissions to run.sh
 
 This command will open a web browser that shows the original image and our output image side by side.
+
+
+# Using Example Test Folder
+
+```sh
+./run.sh test_pictures
+```
+This will run the test on our training data using some pictures we have provided.
+
+Click <a href="c_test/index.html">here</a> to see what the output of that test looks like
