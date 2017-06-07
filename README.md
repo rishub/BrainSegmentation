@@ -38,3 +38,9 @@ This command will open a web browser that shows the original image and our outpu
 This will run the test on our training data using some pictures we have provided.
 
 Click <a href="c_test/index.html">here</a> to see what the output of that test looks like
+
+#Sources
+
+We used the pix2pix tensorflow library to implement this functionality. You can find out more about this library <a href = "https://affinelayer.com/pix2pix/">here</a>, and view the source <a href = "https://github.com/affinelayer/pix2pix-tensorflow">here</a>.
+
+The library uses conditional adversarial networks as a general purpose solution to image-image translations. You can find out more about it <a href = "https://arxiv.org/pdf/1611.07004v1.pdf">here</a>.
