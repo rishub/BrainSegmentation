@@ -39,7 +39,7 @@ This will run the test on our training data using some pictures we have provided
 
 Click <a href="c_test/index.html">here</a> to see what the output of that test looks like
 
-#Sources
+# Sources
 
 We used the pix2pix tensorflow library to implement this functionality. You can find out more about this library <a href = "https://affinelayer.com/pix2pix/">here</a>, and view the source <a href = "https://github.com/affinelayer/pix2pix-tensorflow">here</a>.
 
