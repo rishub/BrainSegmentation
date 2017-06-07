@@ -27,4 +27,4 @@ If you performed step one, output_png_dir = input_png_dir. Otherwise, input_png_
 
 Note that you may need to add permissions to run.sh
 
-This command will open a web browswer that shows the original image and our output image side by side.
+This command will open a web browser that shows the original image and our output image side by side.
