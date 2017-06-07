@@ -23,7 +23,7 @@ python mritopng.py -f <folder_with_dicom> <output_png_dir>
 ./run.sh <input_png_dir>
 ```
 
-If you performed step one, output_png_dir = input_png_dir. Otherwise, input_png_dir is the folder of png images you want to highlight.
+If you performed step two, output_png_dir = input_png_dir. Otherwise, input_png_dir is the folder of png images you want to highlight.
 
 Note that you may need to add permissions to run.sh
 
