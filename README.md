@@ -45,3 +45,6 @@ Click <a href="c_test/index.html">here</a> to see what the output of that test l
 We used the pix2pix tensorflow library to implement this functionality. You can find out more about this library <a href = "https://affinelayer.com/pix2pix/">here</a>, and view the source <a href = "https://github.com/affinelayer/pix2pix-tensorflow">here</a>.
 
 The library uses conditional adversarial networks as a general purpose solution to image-image translations. You can find out more about it <a href = "https://arxiv.org/pdf/1611.07004v1.pdf">here</a>.
+
+We also used a dicom to png converter to give our model images that it can handle. This library can be found 
+<a href="https://github.com/danishm/dicom-to-png">here</a>
