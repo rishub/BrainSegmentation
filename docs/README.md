@@ -6,7 +6,7 @@ To read our introduction to brain lesion segmentation, please read
 
 In short, brain lesions are abnormal tissue in/on brain tissue. We have refined a program (using the pix2pix tensorflow library) that will highlight brain lesions given a png image of a brain. This program will help automate the tedious task of manually highlighting brain lesions, and strives to perform just as well as a human operator. 
 
-<img src="pics/2_IM-0001-0016-0001.dcm.png" width="900px"/>
+<img src="../pics/2_IM-0001-0016-0001.dcm.png" width="900px"/>
 
 The left side of this picture is an example of what we want to output, given the image on the right side.
 
@@ -41,7 +41,7 @@ If no browser is available, navigate to the c_test/images folder, and open the i
 ```
 This will run the test on our training data using some pictures we have provided.
 
-Click <a href="c_test/index.html">here</a> to see what the output of that test looks like
+Click <a href="../c_test/index.html">here</a> to see what the output of that test looks like
 
 # Sources
 
