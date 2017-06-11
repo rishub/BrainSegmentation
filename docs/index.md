@@ -4,6 +4,8 @@ CS188 Project by Rishub Kumar and Patrick Deshpande
 To read our introduction to brain lesion segmentation, please read 
 <a href="Introduction.md">this</a>
 
+To look at our report summarizing our results, <a href="report.md">click here</a>.
+
 In short, brain lesions are abnormal tissue in/on brain tissue. We have refined a program (using the pix2pix tensorflow library) that will highlight brain lesions given a png image of a brain. This program will help automate the tedious task of manually highlighting brain lesions, and strives to perform just as well as a human operator. 
 
 <img src="pics/2_IM-0001-0016-0001.dcm.png" width="900px"/>
