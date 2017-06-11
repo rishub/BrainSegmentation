@@ -1,7 +1,7 @@
 Rishub Kumar 704423827
 Patrick Deshpande 604419345
  
-	Brain Lesion Segmentation Final Report
+# Brain Lesion Segmentation Final Report
  
 Methods 
  
