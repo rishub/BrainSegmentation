@@ -1,5 +1,5 @@
 # BrainSegmentation
-CS188 Project by Rishub Kumar and Patrick Deshpande
+by Rishub Kumar and Patrick Deshpande
 
 To read our introduction to brain lesion segmentation, please read 
 <a href="Introduction">this</a>
